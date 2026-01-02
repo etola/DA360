@@ -1,9 +1,9 @@
-# Depth Anything in 360°: Towards Scale Invariance in the Wild
+## Depth Anything in 360°: Towards Scale Invariance in the Wild
 
 
 The Official Pytorch Implementation for
 
-> [**Depth Anything in 360&deg: Towards Scale Invariance in the Wild**](https://insta360-research-team.github.io/DA360/)
+> [**Depth Anything in 360°: Towards Scale Invariance in the Wild**](https://insta360-research-team.github.io/DA360/)
 >
 > Authors: Hualie Jiang, Ziyang Song, Zhiqiang Lou, Rui Xu, Minglang Tan
 
@@ -12,7 +12,7 @@ The Official Pytorch Implementation for
 </p>
 
 
-# Preparation
+## Preparation
 
 ### Installation
 
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 
-# Evaluation
+## Evaluation
 
 ### Download the pre-trained models
 ```
